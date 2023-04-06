@@ -11,7 +11,7 @@
 - [PolyZone](https://github.com/mkafrin/PolyZone) -- For Poly Fish Zone And Target Zone
 
 
-## Fishing Job Job
+## Fishing Job
 
 ## Put Items (qb-core/shared/item.lua)
     -- fish tools

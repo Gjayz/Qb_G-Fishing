@@ -4,6 +4,7 @@
 
 
 ## Dependencies
+- [qb-inventory](https://github.com/qbcore-framework/qb-inventory) --- For Removing and Carry
 - [qb-core](https://github.com/qbcore-framework/qb-core) --- Main Frameworks
 - [qb-target](https://github.com/BerkieBb/qb-target) ----Target Fucntion
 - [qb-menu](https://github.com/qbcore-framework/qb-menu) ---- For Menu
